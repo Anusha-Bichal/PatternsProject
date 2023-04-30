@@ -41,9 +41,4 @@ public class Dog {
 	public String toString() {
 		return "Dog [id=" + id + ", name=" + name + ", breed=" + breed + ", trainer=" + trainer + "]";
 	}
-	
-	
-	
-	
-
 }
